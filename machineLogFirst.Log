@@ -1,0 +1,8 @@
+23:45:47.493 [main] INFO  machine.CoffeeMachine - initiating machine
+23:45:47.499 [main] INFO  machine.CoffeeMachine - Machine Launched
+23:45:47.500 [main] INFO  machine.CoffeeMachine - printing menu
+23:45:56.746 [main] INFO  machine.CoffeeMachine - determining which action is being performed
+23:45:56.746 [main] INFO  machine.CoffeeMachine - session ended
+23:46:03.453 [main] INFO  machine.CoffeeMachine - initiating machine
+23:46:03.456 [main] INFO  machine.CoffeeMachine - Machine Launched
+23:46:03.456 [main] INFO  machine.CoffeeMachine - printing menu
