@@ -12,3 +12,6 @@ The program is run through  ```CoffeeMachine.java```, simply follow the prompts 
 
 ## Contributions
 In order to contibute to this project make a pull request and start developing on a dev branch. Please do keep in mind a basic code of conduct and do not plagiarise code. After a contribution, edit this README with information about the update. Another way to contribute is to simply create a new issue, or send me an e-mail with suggestions.
+
+## License
+This repo is placed under the MIT License (MIT)
